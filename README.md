@@ -1,21 +1,17 @@
 <!DOCTYPE html>
+<html>
 <head>
-  
-  <title>
-    THE HANUMAAN
-  </title>
-  
-  </head>
-  .kkd
-  {
-    color: red;
-    background-color: powderblue
-    }
-   <body>
-  
-  <h1 class="kkd"> THE HANUMAAN </h1>
-  
-  
-  </body>
-  
-  </html>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
+</body>
+</html>
