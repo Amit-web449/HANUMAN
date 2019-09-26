@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+  </head>
   <title>
     THE HANUMAAN
   </title>
